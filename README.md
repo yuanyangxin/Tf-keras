@@ -4,9 +4,9 @@ In this project, I get familiar with Tf-keras.
 
 We use two datasets: California Housing dataset(for regression) and fashion_mnist(for classification)
 
-![1565539529475](D:\download\chrome下载\tensorflow2.0_course-master\tensorflow2.0_course\Tf-keras-\1565539529475.png)
+![image](https://github.com/yuanyangxin/Tf-keras-/blob/master/img/housing.png)
 
-![1](D:\download\chrome下载\tensorflow2.0_course-master\tensorflow2.0_course\Tf-keras-\1.png)
+![image](https://github.com/yuanyangxin/Tf-keras-/blob/master/img/fashion_mnist.png)
 
 We use tf-keras to implement deep neural network and wide&deep. 
 
